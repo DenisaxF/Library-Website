@@ -1,5 +1,5 @@
 # Library Website
-A Full-Stack web application for an online bookstore, built with Node.js and MySQL.
+A Full-Stack web application for an online bookstore, built with Node.js and PostgreSQL.
 
 # Features
 - User Accounts: Registration and Login functionality.
